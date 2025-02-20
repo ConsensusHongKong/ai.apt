@@ -1,5 +1,5 @@
 
-**ai.apt - Your 24/7 Powerful AI Quant Trading Agent Specilized in BTC and APT**
+## **ai.apt - Your 24/7 Powerful AI Quant Trading Agent Specilized in BTC and APT**
 
 ### **Short Description**
 
