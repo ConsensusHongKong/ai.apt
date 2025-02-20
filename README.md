@@ -1,5 +1,5 @@
 
-ai.apt - Your 24/7 Powerful AI Quant Trading Agent Specilized in BTC and APT
+**ai.apt - Your 24/7 Powerful AI Quant Trading Agent Specilized in BTC and APT**
 
 ### **Short Description**
 
@@ -67,3 +67,33 @@ In the next phase, Ai.apt will leverage **Aptos' high performance for cross-chai
 
 - Our AI Agent **automatically monitors** market signals and news from **CoinGecko and CryptoPanic**, adjusting trading strategies in real-time.
 - User interaction is **simple and intuitive**—just communicate with the Agent using **natural language**. No need to manually operate protocols or sign transactions.
+
+### **Tech Framework**
+![Tech Framework](https://github.com/user-attachments/assets/748de903-376d-4013-9cd1-0a426cbc7965)
+
+
+## **Demo Video**
+https://www.loom.com/share/57ac1d4309374dd8bcd768b055ae7d79?sid=7e0ea752-cf63-4424-a4b9-201e43105764
+
+
+## **PowerPoint**
+
+https://www.canva.cn/design/DAGfawk9Cj0/SlHH6b_r1NrI9mzpZ16m8w/edit?utm_content=DAGfawk9Cj0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+
+## **Product Image**
+![allocation of funds](https://github.com/user-attachments/assets/9fc6b7fe-3347-4504-98fd-55714a55b152)
+
+![ask for explain](https://github.com/user-attachments/assets/d3ae91b8-9034-464a-914e-70c16e920049)
+
+![Aptos Log](https://github.com/user-attachments/assets/40443c8b-4bf5-4621-9f66-a10402d8ba1a)
+
+![Homepage](https://github.com/user-attachments/assets/f6e25b1c-f510-48b3-b325-2a152650291b)
+
+![Agent list page](https://github.com/user-attachments/assets/f27c41b2-cbe7-443e-a2bc-d368da373fd0)
+
+![apt X](https://github.com/user-attachments/assets/a82f8d03-887b-4341-a2d3-a09b2cab9f01)
+
+
+
+
