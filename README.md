@@ -1,4 +1,4 @@
-![WechatIMG201](https://github.com/user-attachments/assets/944e3551-52c1-4043-816a-b91ea0c8c76b)
+
 ai.apt - Your 24/7 Powerful AI Quant Trading Agent Specilized in BTC and APT
 
 ### **Short Description**
